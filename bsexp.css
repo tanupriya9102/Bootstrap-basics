@@ -1,0 +1,24 @@
+body{
+  background-image: url(https://wallpaperaccess.com/full/1162775.jpg);
+
+  color: white;
+  margin: auto;
+
+}
+h1
+{
+  text-align: center;
+  font-family: Brush Script MT;
+  font-size: 100px;
+
+  color: white;
+  text-decoration: underline;
+
+}
+.division{
+  margin: auto;
+  border: 60px solid #59edf7;
+  border-top: 0px;
+  padding: 120px;
+  padding-top: 90px;
+}
